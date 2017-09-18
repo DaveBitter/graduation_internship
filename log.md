@@ -19,7 +19,7 @@ In my original planning I wanted to first have all the data present and then sta
 I hooked up the real fleets and vehicles to the app because after this is done we can do proper user testing per company with their own data. It also brought up the first performance issues which I otherwise wouldn't have encountered until a later stage. I was able to fix this fairly easy now.
 
 ### What went well/not so well?
-The second week went really well! I was able to do a lot of work in an orderly and structured fashion. I was able to show a pro-active attitude which was greatly appreciated. My internship supervisor, Simon Rijk, was impressed by what and how I build it. He also liked that I inquired for user input at real companies. I want to keep this up throughout the internship.
+The second week went really well! I was able to do a lot of work in an orderly and structured fashion. I was able to show a pro-active attitude which was greatly appreciated. My internship supervisor, Simon Rijk, was impressed by what I build and how I build it. He also liked that I inquired for user input at real companies. I want to keep this up throughout the internship.
 
 ## Week 1
 ### What did I do?
