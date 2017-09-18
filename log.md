@@ -1,7 +1,7 @@
 # Graduation Internship ViriCiti
 ## Week 2
 ### What did I do?
-The week started off with iterating over the clickable prototype. I asked the customer service department to inquire about what the customers wanted in th new app. What do they use our system the most for and would they like to see in the app. Breytner, one of the companies that use the system, replied with an extensive wish list. I've used this feedback to iterate over the prototype adding multiple new features like vehicle state and seeing where all the fleets are on the map.
+The week started off with iterating over the clickable prototype. I asked the customer service department to inquire about what the customers wanted in the new app. What do they use our system the most for and would they like to see in the app. Breytner, one of the companies that use the system, replied with an extensive wish list. I've used this feedback to iterate over the prototype adding multiple new features like vehicle state and seeing where all the fleets are on the map.
 
 After that I called a meeting with most of the developers. I wanted to discuss the handling of authentication and data requesting. Since a lot of services need to be connect to each other to make everything work I thought this was important. We were able to make a plan which everyone agreed on by doing this. It was a productive meeting where everybody could share their thoughts and expertise.
 
