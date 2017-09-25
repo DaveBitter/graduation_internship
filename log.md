@@ -1,4 +1,18 @@
 # Graduation Internship ViriCiti
+## Week 3
+### What did I do?
+I started the week of with taking care of the data side of the app. I wanted to build this early on in the process. The first step was requesting historical data from the ViriCiti API. This was a fairly easy task. I've worked with this API before so requesting data was quickly build. I used the API class I had written the week before. In order to make everything work I had to modify the data-server to be able to provide functionality I wanted the app to have. A example is getting historical data of all of your fleets combined.
+
+I build a nice extra to the app to add perceived performance to the app. I'm able to set a fetch order in the configuration for fetching most used data first. If a user always looks at the current state of charge first, then this can be fetched first so it feels faster than it actually is.
+
+The next task was taking care of live data sockets. This was somewhat trickier. The main library ViriCiti uses for this in their webapplications is Socket.io. I've worked with this library many times before. Socket.io didn't work as expected. The library wasn't able to get a connection. Luckily I didn't put all my eggs in the Socket.io basket. React Native natively supports regular websockets. The reason I didn't use this in the first place is that ViriCiti is migrating to this. I wanted to implement this once they did. So, for now i adapted. Since I'm building the MVP for this app I decided to use the regular API I used for the historical data. I'm able to request the latest value of a parameter. This was easy to implement since I could use the work I did for the historical data part of the app before. This will not be a thing to use in production since this is far heavier on the performance and data usage. This is because the socket will emit a new value once it changes. This temporary solution will just keep getting the latest value on an interval. This will happen even if it doesn't change in value.
+
+### For who/what did I do this?
+I started of with requesting the data this early on in the project so I would notice performance issues immediately. I can now optimize the app from the start while everything is still easily and quickly modified. The second reason I did this was for user testing. Users can now test the app with their own data. This is useful because we can see what they would do with the app once it's live. We can monitor the pattern in their usage. We have now almost got a MVP in within the first moment. I now have the time to iterate over this app.
+
+### What went well/not so well?
+Requesting the data went well. I was able to request data in a smart and reusable way. I had to adapt to what I was able to do with the data and even modify the back-end a bit. Overall this week was very productive for the road to the MVP.
+
 ## Week 2
 ### What did I do?
 The week started off with iterating over the clickable prototype. I asked the customer service department to inquire about what the customers wanted in the new app. What do they use our system the most for and would they like to see in the app. Breytner, one of the companies that use the system, replied with an extensive wish list. I've used this feedback to iterate over the prototype adding multiple new features like vehicle state and seeing where all the fleets are on the map.
