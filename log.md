@@ -1,4 +1,18 @@
 # Graduation Internship ViriCiti
+## Week 4
+### What did I do?
+This week I started with live data fetching. It turned out that my temporary solution from last week was too heavy on performance. I basically fetched data every x amount of seconds. The request would be made even if the previous request was not returned yet. In order to fix this I used Async forever. Through a callback this will ensure that the code only gets executed when the previous request was returned. This significantly decreased the network requests.
+
+The second, and most exciting part, of the live data fetching I improved was using native websockets for live vehicle data. I could not set this up previously due to the Socket.io web server. In order to add support for native websockets I setup a websocket server next to the Socket.io web server which will use the same code, but handles it's own connections. After this I spend a lot of time on making sure that the native app would handle sockets as efficient as possible. The app will setup a single websocket connection on load. After that, you can request this socket from every file in the project. There was one downside to using native websockets. It does not use the event emitter like Socket.io. There is just a single ```onmessage``` event. In order to add this to the native websockets I extended the socket class with an event emitter. This works well.
+
+The rest of the week I spend on optimizing the app for tablets. Instead of using pixels for height and layout I made everything relative to the viewport. This ensures that the app will scale from smaller to bigger screens.
+
+### For who/what did I do this?
+I did this in order to improve performance and usability. I wanted this app to be ready for user testing and clients of ViriCiti. I also wanted the way I handle sockets in the app to be taken care of. This allows for easy upgrading the sockets once the ViriCiti gateway is live. I am acting like everything is already there in the app. This way we can easily upgrade later.
+
+### What went well/not so well?
+The fixes I did this week really paid off. The app runs much better now and is also responsive. This gave a nice feeling of accomplishment. Compared to the previous weeks this was the least fulfilling though. The week was about optimizations which are a lot less exciting than adding new features. It is a part of being a developer and that is why I was fine with it.
+
 ## Week 3
 ### What did I do?
 I started the week of with taking care of the data side of the app. I wanted to build this early on in the process. The first step was requesting historical data from the ViriCiti API. This was a fairly easy task. I've worked with this API before so requesting data was quickly build. I used the API class I had written the week before. In order to make everything work I had to modify the data-server to be able to provide functionality I wanted the app to have. A example is getting historical data of all of your fleets combined.
