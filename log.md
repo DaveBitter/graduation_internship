@@ -1,6 +1,20 @@
 # Graduation Internship ViriCiti
 ## Week 4
 ### What did I do?
+I finished my MVP! Since I set up the web sockets for live data I could finish up the remaining tasks. All the vehicles still needed to be displayed driving on the map. After refactoring the code to make it more modularized I build this. All the data and functionality for the MVP is now there.
+
+I also worked on the performance. The sockets get data multiple times per second. I updated the state several times per second per parameter. This was to much for the device to handle. I made use of throttling to fix this. The app now runs much quicker.
+
+I ended the week with all the little tasks I needed to do to finish the MVP. I added the ViriCiti typography, added all the icons to the app, ensured that errors were handled correctly etc..
+
+### For who/what did I do this?
+I did this to have a MPV ready for user testing. I contacted one of the companies ViriCiti works with, Breytner, through the communications department. They're free to have me come over to do inquiries and user testing. In the few weeks I will visit them for this.
+
+### What went well/not so well?
+This week went well. I managed to fix all the things I needed to for the MPV in time for user testing. I was able to significantly improve performance. I also was very pleased about refactoring the code. It's not the most exciting part of building the app, but it was very much needed. The code is much more structured and modularized because of this.
+
+## Week 4
+### What did I do?
 This week I started with live data fetching. It turned out that my temporary solution from last week was too heavy on performance. I basically fetched data every x amount of seconds. The request would be made even if the previous request was not returned yet. In order to fix this I used Async forever. Through a callback this will ensure that the code only gets executed when the previous request was returned. This significantly decreased the network requests.
 
 The second, and most exciting part, of the live data fetching I improved was using native websockets for live vehicle data. I could not set this up previously due to the Socket.io web server. In order to add support for native websockets I setup a websocket server next to the Socket.io web server which will use the same code, but handles it's own connections. After this I spend a lot of time on making sure that the native app would handle sockets as efficient as possible. The app will setup a single websocket connection on load. After that, you can request this socket from every file in the project. There was one downside to using native websockets. It does not use the event emitter like Socket.io. There is just a single ```onmessage``` event. In order to add this to the native websockets I extended the socket class with an event emitter. This works well.
