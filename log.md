@@ -1,4 +1,20 @@
 # Graduation Internship ViriCiti
+## Week 6
+### What did I do?
+This week I mostly worked on the temporary server for the native app. My app will eventually connect to the Gateway that is being build by an other intern. I decided to write a small back-end that will allow us to make a working MVP.
+
+I also made authentication work. A user can now authenticate with his/her existing account. Previously there wasn't any form of authentication. I added this to make this MVP secure during testing.
+
+The second part of the week I worked on two things. I provided my code with code comments to explain to future developers that will work on this project what everything is and does. I also made a more extensive README about what the app does and how you can run a development environment for it.
+
+I have also written front-end tests. It is important for deployment that the code runs through tests to make sure everything works. I have never written a test so I had to do some research on how I can make them. I decided to use Jest, which was already supported by Expo.io. I wrote tests for helper functions I made, UI elements and most importantly the config of the native app. With this config you build the complete interface. It was important to make sure that this config is correct.
+
+### For who/what did I do this?
+I did all this work this week to ensure a well working, well documented and thoroughly tested product. By writing the native server, documenting the code and writing tests I accomplished this a bit more.
+
+### What went well/not so well?
+This week went well. It made me feel better about my product and my ability to transfer this project to the next person.
+
 ## Week 5
 ### What did I do?
 I finished my MVP! Since I set up the web sockets for live data I could finish up the remaining tasks. All the vehicles still needed to be displayed driving on the map. After refactoring the code to make it more modularized I build this. All the data and functionality for the MVP is now there.
