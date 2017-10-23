@@ -1,6 +1,20 @@
 # Graduation Internship ViriCiti
 ## Week 6
 ### What did I do?
+This week I learned a new skill. I've worked with React for a long time now. To take your React applications to a higher level you can make use of Redux. Redux is a state manager for you application. In order to make a good working application I wanted to learn this during my internship. It was tough to get into, but once I got the hang of it I could implement it fairly easily.
+
+I also worked on the map component a bit more. I wanted to style the map and the markers according to the styleguide of ViriCiti. This gives the app a more round-up feel in the details.
+
+A colleague also invited me to an other client to test and discuss the app. I will be going to Qbuzz in Utrecht coming Friday.
+
+### For who/what did I do this?
+I learned Redux for two parties. I learned it for ViriCiti in order to build a well structured and performing application. I learned it for myself to make myself a more skilled developer. Redux is a framework that I just needed to learn as a logical next step in application development.
+
+### What went well/not so well?
+I was really happy to learn Redux. It looked like a lot of new and complex things to learn, but it wasn't that bad once I got started. It gave me reassurance that I now know how to use this framework to take applications to the next level.
+
+## Week 6
+### What did I do?
 This week I mostly worked on the temporary server for the native app. My app will eventually connect to the Gateway that is being build by an other intern. I decided to write a small back-end that will allow us to make a working MVP.
 
 I also made authentication work. A user can now authenticate with his/her existing account. Previously there wasn't any form of authentication. I added this to make this MVP secure during testing.
