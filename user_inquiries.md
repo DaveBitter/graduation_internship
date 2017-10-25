@@ -1,4 +1,4 @@
-# User inquires ViriCiti Native App
+# User inquiries ViriCiti Native App
 ## The goal
 The goal of this inquiry is to validate our idea's and gain new perspective and idea's from the customers point of view. We would like to know how we can make an Native App that will be perfectly in line with the customers needs and wishes. Although we can't implement every wish for every customer, we would still like to know what different companies want so we can make a well educated decision on design choices for the Native App.
 
