@@ -1,5 +1,25 @@
 # Graduation Internship ViriCiti
-## Week 6
+## Week 8
+### What did I do?
+I started the week off with fixing the map after the app has compiled. In development I could see the map perfectly fine, but if I build a standalone app I wasn't able to see it. It was due to authenticating with Google.
+
+After that I implemented Redux some more. I had to keep track of the current screen the user is looking at in order to improve performance by only fetching and updating data when needed.
+
+The rest of the week I prepared for the meeting with Qbuzz in Utrecht on Friday and Breytner on Monday. I made sort of questionair to guide the conversation. I setup multiple lines of questioning based on what they could use the app for. I also printed all the screens for the event of the user wanting to explain something. They could then draw or write on the screens what they are trying to say.
+
+I ended the week on Friday by going to Qbuzz. I was there for a few hours discussing what ViriCiti can offer them and listening to what they want as a user.
+
+### For who/what did I do this?
+I visited Qbuzz in order to find out what the user actually wants and to validate idea's to implement in the native app. I made a design and flow of the app and I wanted to test my assumptions with actual users. This is also part of one of my learning goals. I want this app to be as useful to every customer as it can.
+
+### What went well/not so well?
+The user testing at Qbuzz didn't go as expected. It turned out that the persons we were meeting weren't fully our end users. They will make use of the app, but the app isn't fully geared towards them. I could still get valuable information out of the visit. Since they use ViriCiti's monitoring system I could still find out what the company uses the system for. This validated my choice for what data to show in the app what is important to show. They also gave a lot of feedback on a future feature for the app geared towards the drivers of the vehicles. I took note of all their suggestions and idea's for the future.
+
+On of the people we had the meeting had did have direct contact to the end users. I asked and instructed him to show the clickable prototype and ask the questions I provided. This way we could still get this information out of the end users.
+
+The rest of the day I prepared the meeting for Monday with the people at Breytner, who will be the end users of the app.
+
+## Week 7
 ### What did I do?
 This week I learned a new skill. I've worked with React for a long time now. To take your React applications to a higher level you can make use of Redux. Redux is a state manager for you application. In order to make a good working application I wanted to learn this during my internship. It was tough to get into, but once I got the hang of it I could implement it fairly easily.
 
