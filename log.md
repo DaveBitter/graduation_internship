@@ -1,4 +1,18 @@
 # Graduation Internship ViriCiti
+## Week 10
+### What did I do?
+This week I started working on the notification part of the app. I started with the user interface for these notifications. With a few mock notifications I could build all the pages and components needed. After that I started working on getting notificationtokens for Expo.io and handling the logic of receiving notifications. I implemented Redux to keep track of read notifications and displaying an unread notification badge.
+
+After all of that I researched the backend for the notifications some more. I started the week by using the Expo.io API for the sending of the notifications. I found the API in Node.js online. I could now run all of this locally before implementing it in the Native Server I wrote.
+
+This week my internship supervisor from CMD Amsterdam also visited. We had a short talk on progress and what to do next. I also got my performance reviews by Simon Rijk and Sakif Surur. I ended the week with writing the report about this moment.
+
+### For who/what did I do this?
+I worked on the notifications this week because it is a big part of the app and I wanted to have plenty of time in the project to research and build this properly. If I finish this we can properly user test this.
+
+### What went well/not so well?
+Building the notification part went really well. I could use Redux, which I learned previously, to complete all the functionality. The performance reviews also went really well. My supervisors were really pleased with my performance the first half of the internship. I will try to improve even more and develop my skills further.
+
 ## Week 9
 ### What did I do?
 I started the week off by going to Breytner. Breytner is the company I talked to previously through email at the start of the project. I discussed the features that I build, that I still have to implement and what they use ViriCiti's monitoring system for. This last one was very important.
