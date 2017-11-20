@@ -1,4 +1,14 @@
 # Graduation Internship ViriCiti
+## Week 11
+### What did I do?
+I started the week by creating an API route on the Native Server I build to send notifications to a user. Thanks to the Expo.io sdk this went really quick. I then worked on optimizing the app. I fixed a couple of memory leaks and improved perfomance overall. I then worked on the final step of the first version of the app. This step was hooking up the call to actions of a notification to whatever it needed to do. I ended the week with working on te visual design of the app. I styled the charts in the way ViriCiti's charts look like in the web app.
+
+### For who/what did I do this?
+This week I worked on final features and optimizations. I was all over the place to build and fix everything. ViriCiti wants to test this app amongst employees, so this was to do this as soon as possible.
+
+### What went well/not so well?
+This week went well, I managed to do a lot of stuff in a single week. I feel more confident in my product after fixing all these bugs and optimizing the perfomance. The app is getting there!
+
 ## Week 10
 ### What did I do?
 This week I started working on the notification part of the app. I started with the user interface for these notifications. With a few mock notifications I could build all the pages and components needed. After that I started working on getting notificationtokens for Expo.io and handling the logic of receiving notifications. I implemented Redux to keep track of read notifications and displaying an unread notification badge.
