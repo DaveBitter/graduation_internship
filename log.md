@@ -1,19 +1,35 @@
 # Graduation Internship ViriCiti
+## Week 12
+### What did I do?
+This week I worked on the full notification pipeline. I needed to hookup the existing notification service to also send out push notifications to the correct user and device. I wrote a micro-service which hooks in to this service to do this. This was way out of my ballpark, but I got help from Sakif Surur to make this.
+
+This week I also had a meeting with Simon Rijk and Freek Dielissen to discuss beta release plans. We are going test the app in house before releasing a beta to selected customers. This will give me feedback to make improvements before releasing.
+
+I also worked on reading up on the whole release process at Google and Apple to see if I needed to figure out some stuff. It all looks pretty straight forward.
+
+I ended the week with refactoring my code. I run my linter through all the code I written. This made a lot of improvements in the quality of the code.
+
+### For who/what did I do this?
+I did all of this to tie up loose ends some more and prepare for beta releasing. I want to get the beta live as soon as possible to keep the iterative process going.
+
+### What went well/not so well?
+Everything went well. The most difficult part was writing the micro service since I never work on these kind of projects. With the help of Sakif Surur I managed to get everything working.
+
 ## Week 11
 ### What did I do?
-I started the week by creating an API route on the Native Server I build to send notifications to a user. Thanks to the Expo.io sdk this went really quick. I then worked on optimizing the app. I fixed a couple of memory leaks and improved perfomance overall. I then worked on the final step of the first version of the app. This step was hooking up the call to actions of a notification to whatever it needed to do. I ended the week with working on te visual design of the app. I styled the charts in the way ViriCiti's charts look like in the web app.
+I started the week by creating an API route on the Native Server I build to send notifications to a user. Thanks to the Expo.io SDK this went really quick. I then worked on optimizing the app. I fixed a couple of memory leaks and improved performance overall. I then worked on the final step of the first version of the app. This step was hooking up the call to actions of a notification to whatever it needed to do. I ended the week with working on the visual design of the app. I styled the charts in the way ViriCiti's charts look like in the web app.
 
 ### For who/what did I do this?
 This week I worked on final features and optimizations. I was all over the place to build and fix everything. ViriCiti wants to test this app amongst employees, so this was to do this as soon as possible.
 
 ### What went well/not so well?
-This week went well, I managed to do a lot of stuff in a single week. I feel more confident in my product after fixing all these bugs and optimizing the perfomance. The app is getting there!
+This week went well, I managed to do a lot of stuff in a single week. I feel more confident in my product after fixing all these bugs and optimizing the performance. The app is getting there!
 
 ## Week 10
 ### What did I do?
 This week I started working on the notification part of the app. I started with the user interface for these notifications. With a few mock notifications I could build all the pages and components needed. After that I started working on getting notificationtokens for Expo.io and handling the logic of receiving notifications. I implemented Redux to keep track of read notifications and displaying an unread notification badge.
 
-After all of that I researched the backend for the notifications some more. I started the week by using the Expo.io API for the sending of the notifications. I found the API in Node.js online. I could now run all of this locally before implementing it in the Native Server I wrote.
+After all of that I researched the back-end for the notifications some more. I started the week by using the Expo.io API for the sending of the notifications. I found the API in Node.js online. I could now run all of this locally before implementing it in the Native Server I wrote.
 
 This week my internship supervisor from CMD Amsterdam also visited. We had a short talk on progress and what to do next. I also got my performance reviews by Simon Rijk and Sakif Surur. I ended the week with writing the report about this moment.
 
