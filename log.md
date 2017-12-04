@@ -1,4 +1,16 @@
 # Graduation Internship ViriCiti
+## Week 13
+### What did I do?
+This week I worked on bugs that needed to be fixed for the beta release. I first fixed the bug where my native server would crash if a socket suddenly disconnected. I then fixed the issue where a token expires. The app will now log you out if the token is expired. I also fixed the issues where the data wasn't sorted correctly.
+
+I then looked into what's needed to compile the IOS app and release it. This week I also had meetings on what else needs to be done to take the app in full production mode.
+
+### For who/what did I do this?
+I did all of this to tie up loose ends some more and prepare for beta releasing. I want to get the beta live as soon as possible to keep the iterative process going.
+
+### What went well/not so well?
+The bug fixing and the meetings went well. We're getting there!
+
 ## Week 12
 ### What did I do?
 This week I worked on the full notification pipeline. I needed to hookup the existing notification service to also send out push notifications to the correct user and device. I wrote a micro-service which hooks in to this service to do this. This was way out of my ballpark, but I got help from Sakif Surur to make this.
