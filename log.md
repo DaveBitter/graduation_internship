@@ -1,4 +1,18 @@
 # Graduation Internship ViriCiti
+## Week 14
+### What did I do?
+I started the week off with fixing bugs. I tackled quite a few. After that I implemented Redux some more to improve the app. The user's assets and fleets now are stored in the Redux state.
+
+I also designed the app icons for the app and held a little user test in the office for these icons. I then setup all the developer accounts at Google and Apple for the release of the app.
+
+On Friday I released all the services together with Sakif Surur. The first version of the app can now be tested inhouse. Exciting times!
+
+### For who/what did I do this?
+I did all of this to have enough time for the release process. We want to start testing the app as soon as possible. This can now be done.
+
+### What went well/not so well?
+Everything went well.
+
 ## Week 13
 ### What did I do?
 This week I worked on bugs that needed to be fixed for the beta release. I first fixed the bug where my native server would crash if a socket suddenly disconnected. I then fixed the issue where a token expires. The app will now log you out if the token is expired. I also fixed the issues where the data wasn't sorted correctly.
