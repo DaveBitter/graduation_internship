@@ -244,11 +244,33 @@ During the testing with the alpha group I ran into a lot of small bugs. Things l
 
 ### Learning goal #1
 
+#### As a front-end developer I want to learn how to build a performant native app using React Native so I can widen my skillset that I can offer to companies and users.
+
+My first learning goal was to learn how to make a native app. I took a few steps to learn this. The three main parts of learning this was to learn React Native itself, learn what is possible with native development and how to release a native app to the Google Play store and the app store.
+
+##### Learning React Native
+
+I was pretty quick at getting to learn React Native itself. I've had a year and a half of experience in React with building web applications. I just had to figure out what was different in React Native
+
+The main difference was styling and not having HTML. React Native uses CSS in a javascript way. It uses the same logic, but the syntax is different. You are not able to write CSS in a regular way like you would for a web application. Instead, you write it in an object oriented way in Javascript. This was easy to pick up.
+
+Not having HTML was more challenging. I couldn't make use of regular HTML but had to use native elements instead. This limited me in a way because I like to write semantically correct HTML. I had to figure out what elements to use and what you can or cannot do in native development. Along the way I found this out and I am now much more aware of this.
+
+Releasing to the Google Play store and the App store was really challenging. ViriCiti and I didn't have any knowledge on this. I had to figure out what accounts I needed and what I needed to do to get the app on both platforms. I researched a lot online to achieve this. I also asked Maarten Petit, a native developer at Cohere, to help me with the things I really could't find out. In the end I managed to get a good pipeline ready for releases and had the knowledge on how to do this for the future.
+
+I've learned a lot about native development and all the aspects of it. With this knowledge and experience I am now confident enough to say that I can create native apps for companies. This felt like a great achievement because that's what I set out to do for this learning goal.
+
 ### Learning goal #2
+
+#### As a front-end developer I want to sharpen my skills in the area of visual and user experience design so I can build better apps for companies and users.
+
+Normally I leave the user experience and visual design part to other people in a project. Because of this I am not as T-shaped as I want to. Because of this I decided to take it head on during the internship. I first turned the ideas ViriCiti had into sketches to then validate those ideas. I then made a visual design for the app. With those visual designs I then created a low-fi prototype to use for user testing at customers of ViriCiti I worked on this learning goal in every step of the project iteration after iteration.
+
+I feel confident that my app is thouroughly tested and is based on information based on the end user. I have no problem defending the choices I made. A good example of this work is the information I got from my visit to Breytner. I found out what the user wanted to see and iterated over the design accordingly.
 
 ### Learning goal #3
 
-## Obersvation assignments
+## Obsersvation assignments
 
 ### Observation assignment #1
 
