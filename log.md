@@ -1,5 +1,21 @@
 # Graduation Internship ViriCiti
 
+## Week 16
+
+### What did I do?
+
+This week was all about fixing bugs to take the alpha release into beta. I fixed some major and some minor bugs aswell as optimizing performance. I also found out what the last major bug was. During the process of sending a notification when an incident triggers there is a small bug which causes the not receiving of a notification. Next week I am going to fix this.
+
+I also looked more into releasing the iOS beta. I got all the info I need. I will have to fix final iOS bugs to take it into beta though.
+
+### For who/what did I do this?
+
+I did all of this so we can release a beta to customers near the end of the internship. We're on the right track.
+
+### What went well/not so well?
+
+Everything went well.
+
 ## Week 15
 
 ### What did I do?
