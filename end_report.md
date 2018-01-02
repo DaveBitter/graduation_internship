@@ -288,9 +288,21 @@ Lastly, I made sure to write classes that will do things like make API calls or 
 
 ### Observation assignment #1
 
+#### How does ViriCiti ensures that everyone is up to date with the latest projects and techniques?
+
+ViriCiti does four things to achieve this. Every morning the development team holds a standup meeting. Day to day stuff gets told here and is discussed. For longer or bigger discussions ViriCiti hold a developer update each monday afternoon. This is basically a very lengthy standup where developers can go into more detail with eachother. Once every few months ViriCiti holds a tech update. During this update developers get the chance to introduce the team to give a presentation to one another about new frameworks or techniques. Every month ViriCiti, Cohere and Livetech also hold a TN-update. During this update, all the companies under Transitions Now give updates on how things are going with the company. This is a great way to inform different departments on the matters of company growth, sales, marketing, development and more.
+
 ### Observation assignment #2
 
+#### How does ViriCiti keep in contact with customers to get feedback on products?
+
+To my suprise the development team does not have a lot of contact with the end users face to face. Studying Communication and Multimedia design at the HvA taught me to continuously validate ideas and products with the end user. At ViriCiti products are often build by demand of customers. The customer service and the sales department then brings this up during meetings. Developers will then make this and role out a beta to selected customers. This will then be the first real point of feedback on the product. During my internship I tried to set the example by involving end users in the end product throughout the project and to make iterations based on that feedback.
+
 ### Observation assignment #3
+
+#### How do project leaders at ViriCiti ensure that the project is going well and is on track?
+
+ViriCiti project leaders keep track on progress during the daily standup. This provides them with general knowledge on how the project is going. During this standups project leaders often call a meeting if it's needed. This will happen if a developer is stuck at a point in the project for example. During this private meetings they discuss on what steps to take to resolve any issues. Because of the open office culture they also drop by now and again to see what you are doing and if there are any issues. If you have issues and you are in need of help ViriCiti expects you to be pro-active about it and reach out to you project leader or schedule a meeting about the issue.
 
 ## Analysis performance reviews
 
