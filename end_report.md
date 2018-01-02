@@ -224,7 +224,7 @@ At this point I had build an app that does exactly what ViriCiti wanted. The app
 
 Before alpha testing I had to make an icon and some artwork for the Google Play store and the Apple store that you can see in image 10 and 11. I couldn't decide on which variant of the icon to chose from. One being designed with the flat design principles and one with a gradient to look more like how Apple designs their icons. I decided to do inquiries withing the office. I printed both icons out and let Transitions Now employees vote at the coffee corner as you can see in image 12.
 
-[IMAGE11]
+[IMAGE12]
 
 The two icons pretty much tied. It turned out that Android users liked the flat design icon more and iOS users the gradient. This was expected since this is what they're used to. I knew that either icon was fine, but maybe I could use the flat design for the Android app and the gradient for the iOS app.
 
@@ -308,6 +308,24 @@ ViriCiti project leaders keep track on progress during the daily standup. This p
 
 ### Mid project perfomance review
 
+The mid project performance reviews went well. It validate my approach and gave me the confidence to keep up the good work I had done so far. There weren't any negative points.
+
+I got my first performance review from my internship supervisor Simon Rijk. In short, he was incredibly pleased with my performance so far. He was expecially pleased about my ownership of the project, initiative and enthousiasm and the iterative design process. He reviewed my competences as following:
+
+[IMAGE13]
+
+I got my first performance review from my internship supervisor Simon Rijk. In short, he was incredibly pleased with my performance so far. He was expecially pleased about my ownership of the project, initiative and enthousiasm and the iterative design process. He reviewed my competences as following:
+
+[IMAGE14]
+
+I review myself on my performance during the first part of the internship. My review was inline with the reviews by my internship supervisors. The only difference was the lower scores I gave myself in the competences. I reviewed my competences as following:
+
+[IMAGE15]
+
 ### End project perfomance review
 
 ## Conclusions
+
+So here we are. My internship is done. I am proud of the product I build. I was able to learn a complete new skill, native development, in a matter of a few months. This makes me a far better and useful front-end developer for companies. This was something I set out to do during this internship. I am also very pleased with the quality of the code I written and how I managed the project. I am confident that the product is of a high standard. The final thing I am very pleased with is the work I did on the user experience design and the visual design. I had an idea about the app, sketched it, designed itm build it and iterated over it. I was able to visit companies and get outside of the office to actually visit the users.
+
+The internship validated the feeling I had that I am an industry ready developer who can realize ideas companies have in a solid product with the user in mind every step of the way. This is what I want to do as a developer, what companies want me to do and what a user needs somebody to do for them. My internship was a great succes and I can't wait to start my graduation project at ViriCiti for a completly new design problem!
