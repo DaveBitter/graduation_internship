@@ -69,3 +69,23 @@ and app-development since the main assignment of the
 internship is bulding a native app.
 
 Sakif is involved in every project and will use his skills and knowledge to realize them and to optimize them.
+
+## My job description
+
+During the internship I took on four major roles. I had a lot of freedom and responsibility during this project. I worked very autonomous.
+
+### Front-end/Native developer
+
+I was in charge of building the actual app. For this I needed to use a popular Javascript front-end framework that is used to create native apps, React Native, to realize this. I was in charge of writing all the code to build the functionality and styles of the app.
+
+### User Experience/Visual designer
+
+I also was in charge of all the design work. I needed to sketch all the idea's to a low-fi prototype, design a hi-fi prototype and iterate over the user experience and visual design throughout the entire process of building the app.
+
+### Back-end developer
+
+I needed to build an server to hook my app up to and handle all the requests. To do this, I had to write an API to make requests to. This server would then make sure to get everything you requested. I also had to write some microservices to provide functionality. More on this later.
+
+### Project manager
+
+I managed this project all on my own. It was my responsibilty to make sure that the project was on track and everything was done in a structured and documented way.
