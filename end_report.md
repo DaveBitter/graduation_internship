@@ -180,7 +180,9 @@ The map component was fairly easy to build. I decided to use the most used and s
 
 ##### The charts
 
-For the charts I decided to use Victory Charts. Like React Native Maps this package provided me with all the functionality I needed. It was incredibly easy to build the chart components with this.
+For the historical data charts I decided to use Victory Charts. Like React Native Maps this package provided me with all the functionality I needed. It was incredibly easy to build the chart components with this.
+
+For the live data charts I used a gauge package which I extended with some functionality to be the same as in my hi-fi prototype. This was a bit more work, but I managed to do it rather quickly.
 
 ##### The list
 
@@ -188,29 +190,55 @@ The final major component I build was the listcomponent. I had to make this comp
 
 ### Building back-end for data
 
+I now had all the components I needed ready. I just needed to hook real data up to the screens. To be able to do this my app had to connect to a server that would get me this data. So, I decided to write my own server that would just do that. Together with the help of Sakif Surur I build the first version of the server that would handle authentication, live data fetching and historical data fetching for the app.
+
 ### Hooking up app to back-end
 
-### Building all screens with data hooked up
+I now had all the components and a server that would give me data. The final step was to hook the components up to actual data. I wrote a small API class in the native app to do just that. It made it easy for me to request live and historical data from any screen I wanted. After doing this we had a first working version of the dashboard stack in the app.
 
 ### Iterating over code
+
+At this point, I wrote a lot of code. I wanted to let my code be reviewed by Sakif Surur to ensure that it was proper. With the a couple of small points of improvement by Sakif I had a good first part of the app.
 
 ### Learning React Redux
 
-### Iterating over code
+At this point of the project handling the state of the application became troublesome. I was writing to much of the same code in different places. I decided to look into React Redux. Redux is a framework that allows you to have a single global state to hook all of your screens up to.
+
+I've always wanted to learn React Redux and this was the perfect usecase for it. I managed to pick it up rather quicly with the help of a ViriCiti developer called Giuseppe Silleti. He explained some parts of Redux. After that I was able to use Redux throughout my app which made the app overal better.
+
+### Bulding the notification screens
+
+After all this work I could start with the final part of the app. This was the notification screen. ViriCiti already had the system to detect incidents and to sent out an email or a sms. All I needed to do is build the functionality to also send push notifications. I first build all the screens an components I needed to have. I was able to use a lot of components I previously build.
 
 ### Building microservice
 
-### Hooking up incidents to notifications
+Once I had the screens and components I looked more into how to send the actual notification from a server to a specific user. I was able to use the functionality that Expo.io provided to do this. I used their SDK, software development kit, to do this.
 
-### Building notification screens
+I started with adding the functionality to ViriCiti's notification center project. It was as easy as saying to also sent out a notification if the user had logged into the app once. I then wrote a small microservice, called Pusher, to send the actual notification through Expo.io to the devices. With the help of Sakif Surur this was pretty easy to do.
+
+At this point I had build an app that does exactly what ViriCiti wanted. The app provides the user with real-time and historical data and sends out notifications when an incident triggers. I could start alpha testing this app.
 
 ### Designing icons and artwork
 
+[IMAGE10][image11]
+
+Before alpha testing I had to make an icon and some artwork for the Google Play store and the Apple store that you can see in image 10 and 11. I couldn't decide on which variant of the icon to chose from. One being designed with the flat design principles and one with a gradient to look more like how Apple designs their icons. I decided to do inquiries withing the office. I printed both icons out and let Transitions Now employees vote at the coffee corner as you can see in image 12.
+
+[IMAGE11]
+
+The two icons pretty much tied. It turned out that Android users liked the flat design icon more and iOS users the gradient. This was expected since this is what they're used to. I knew that either icon was fine, but maybe I could use the flat design for the Android app and the gradient for the iOS app.
+
 ### Setting up release pipelines
 
-### Testing with Alpha group
+I could now start working on releasing an alpha version to ViriCiti employees before releasing a beta app to selected customers. To do this I had to find out how to release to both platforms and what is needed. I setup accounts for ViriCiti at both Apple and Google. It was easier for Google to setup an alpha release so I started with that. This also made more sense because most of the ViriCiti development team uses Android and these were the people I wanted to test the app with first.
 
-### Testing with Beta group
+After that I started the iOS alpha, called testflight, to let the iOS users test the app. This went simular to the Android version.
+
+### Testing with alpha group
+
+During the testing with the alpha group I ran into a lot of small bugs. Things like responsiveness and weird crashes came up. I was able to get these bugs out pretty quickly which made the app way more robust. After thoroughly testing the app on both platforms I was confident enough to start a first beta release to selected customers.
+
+### Testing with beta group
 
 ## Learning goals
 
