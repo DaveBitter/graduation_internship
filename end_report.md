@@ -89,3 +89,71 @@ I needed to build an server to hook my app up to and handle all the requests. To
 ### Project manager
 
 I managed this project all on my own. It was my responsibilty to make sure that the project was on track and everything was done in a structured and documented way.
+
+## Internship activities
+
+During my internship I did an immense amount of work withing multiple roles. Below, I will descrive all the activities from the initial meeting to the finished app and what roles I took on during the process.
+
+### Initial meeting
+
+### First sketches
+
+### First design
+
+### Iterating over design
+
+### User feedback/Interviews
+
+### Iterating over design
+
+### Setting up project and Asana
+
+### Learning React Native
+
+### Building first screens
+
+### Building back-end for data
+
+### Hooking up app to back-end
+
+### Building all screens with data hooked up
+
+### Iterating over code
+
+### Learning React Redux
+
+### Iterating over code
+
+### Building microservice
+
+### Hooking up incidents to notifications
+
+### Building notification screens
+
+### Testing with Alpha group
+
+### Testing with Beta group
+
+## Learning goals
+
+### Learning goal #1
+
+### Learning goal #2
+
+### Learning goal #3
+
+## Obersvation assignments
+
+### Observation assignment #1
+
+### Observation assignment #2
+
+### Observation assignment #3
+
+## Analysis performance reviews
+
+### Mid project perfomance review
+
+### End project perfomance review
+
+## Conclusions
