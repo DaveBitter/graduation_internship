@@ -130,6 +130,10 @@ During my internship I did an immense amount of work withing multiple roles. Bel
 
 ### Building notification screens
 
+### Designing icons and artwork
+
+### Setting up release pipelines
+
 ### Testing with Alpha group
 
 ### Testing with Beta group
