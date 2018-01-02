@@ -270,7 +270,21 @@ I feel confident that my app is thouroughly tested and is based on information b
 
 ### Learning goal #3
 
-## Obsersvation assignments
+#### As a front-end developer I want to write structured, commented, neat and DRY code so other developers can pick up projects I work on.
+
+In order to achieve this learning goal I did a couple of things. Firstly, I made sure to build the entire app based on a config. Each screen has a config which will render the components it needs to bases on that config. Because of this, nothing is hard coded which makes it easier to change things in the app withoout having to rewrite a lot of code.
+
+Secondly, I made a lot of small components that build a bigger component. I did this to keep the code readable and reusable. This also provides a form of structure to the app instead of just writing huge chunks of code. This also made sure that the code was DRY, which stands for "Don't Repeat Yourself".
+
+Thirdly, I commented my code very well. Each component starts with a comment explaining what component it is. I then put a comment before each method or function I wrote explaining what it does. Inside each method or function I also commented what pieces did.
+
+Fourthly, I wrote a full README for the project explaining what the project does. I also showed a diagram of how all the services are tied together. This will help the next developer to get into this project.
+
+Fifthly, I implemented React Redux which provides a global state in the app. This will make sure that I don't have the same pieces of state in different components. This will also make sure that the app is DRY.s
+
+Lastly, I made sure to write classes that will do things like make API calls or save something to local storage. This will make sure that I don't have this code multiple times throughout my code
+
+## Observation assignments
 
 ### Observation assignment #1
 
