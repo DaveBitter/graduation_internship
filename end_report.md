@@ -5,7 +5,7 @@
 I did my internship during my final year at ViriCiti. ViriCiti provides a monitoring solution for electric buses all
 around the world.
 
-I wanted to do my internship at ViriCiti because of the worldwide scale on which ViriCiti operates. It is a great chance to do a project on this scale. The product makes me enthousiastic aswell. Doing an internship which is related to the internet of things is an amazing chance to get.
+I wanted to do my internship at ViriCiti because of the worldwide scale on which ViriCiti operates. It is a great chance to do a project on this scale. The product makes me enthusiastic as well. Doing an internship which is related to the Internet of Things is an amazing chance to get.
 
 I came across ViriCiti because I did my previous internship at Cohere, which, falls together with ViriCiti and Livetech under Transitions Now. I worked, while studying, for the past year and a half at ViriCiti. I really enjoy working here since the projects are perfect for Communication and Multimedia design students at the HvA.
 
@@ -30,7 +30,7 @@ ViriCiti has around 20 employees. All departments work in the
 same space. This allows for an open office culture. There is a
 direct line between customer calls to feedback for developers.
 ViriCiti also provides space to learn. A few interns currently
-work here aswell as a few former interns.
+work here as well as a few former interns.
 
 ### The products
 
@@ -42,7 +42,7 @@ ViriCiti has countless other, smaller, products to make sure this runs a smoothl
 
 ### My position within the company.
 
-I am mainly the front-end developer at ViriCiti. I am in charge of realiing all the ideas for the front-end. I do have more than one role at ViriCiti because of it is smaller size. There is no visual or user experience design department. This is not a problem because I can take on these roles because of my studies. During this internship I will also be in charge of native development. This is a lot of responsability that I am more than willing to take on.
+I am mainly the front-end developer at ViriCiti. I am in charge of realizing all the ideas for the front-end. I do have more than one role at ViriCiti because of it is smaller size. There is no visual or user experience design department. This is not a problem because I can take on these roles because of my studies. During this internship I will also be in charge of native development. This is a lot of responsibility that I am more than willing to take on.
 
 ## The internship supervisor
 
@@ -57,16 +57,16 @@ field for several years. Because of his years of experience in
 IoT and programming he is able to provide guidance in finding
 the right solutions for complex problems in programming.
 
-He makes sure that the quality of the products and solutions are of a great standerd and will lead all major projects.
+He makes sure that the quality of the products and solutions are of a great standard and will lead all major projects.
 
 ### Sakif Surur
 
 Sakif Surur, developer at ViriCiti, is Web Developer from the
 University of Amsterdam. He will help me with day-to-day
-guidance. With his years of experience in web- and appdevelopment
-he will be able to help me in the area of frontend
+guidance. With his years of experience in web- and app development
+he will be able to help me in the area of front-end
 and app-development since the main assignment of the
-internship is bulding a web and native app.
+internship is building a web and native app.
 
 Sakif is involved in every project and will use his skills and knowledge to realize them and to optimize them.
 
@@ -84,11 +84,11 @@ I also was in charge of all the design work. I needed to sketch all the ideas to
 
 ### Back-end developer
 
-I needed to build an server to hook my app up to and handle all the requests. To do this, I had to write an API to make requests to. This server would then make sure to get everything you requested. I also had to write some microservices to provide functionality. More on this later.
+I needed to build an server to hook my app up to and handle all the requests. To do this, I had to write an API to make requests to. This server would then make sure to get everything you requested. I also had to write some micro-services to provide functionality. More on this later.
 
 ### Project manager
 
-I managed this project all on my own. It was my responsibilty to make sure that the project was on track and everything was done in a structured and documented way. I also called a lot of meetings with other people if I felt that it was needed to discuss something.
+I managed this project all on my own. It was my responsibility to make sure that the project was on track and everything was done in a structured and documented way. I also called a lot of meetings with other people if I felt that it was needed to discuss something.
 
 ## Internship activities
 
@@ -104,7 +104,7 @@ After I sketched the first few ideas I called another meeting with Freek Dieliss
 
 ### Setting up project and Asana
 
-I setup a brand new project and a new project on Asana, a Trello like todo list app that ViriCiti uses. This gave me a global planning and let my internship supervisors keep track on the state of the project. I also used this as a sort of log on what I did for future reference.
+I setup a brand new project and a new project on Asana, a Trello like to-do list app that ViriCiti uses. This gave me a global planning and let my internship supervisors keep track on the state of the project. I also used this as a sort of log on what I did for future reference.
 
 ### The design
 
@@ -130,7 +130,7 @@ In images 5 and 6 you can see the updated designs. I updated minor stuff and now
 
 I wanted to test the hi-fi prototype with the actual users. Because of this I setup a meeting with two customers of ViriCiti. The first customer was Qbuzz, the public transport company in Utrecht. The second one was Breytner, a transport company in Rotterdam. I started off with making a plan for these interviews. I wrote down what I wanted to get to know. This gave me a bit of guidance during the interviews.
 
-The first interview with Qbuzz was very informative, but not for the prototype I made. I did not had the meeting with the actual dispatchers due to inavailability. I still managed to get information by steering the interview into a different direction. We discussed functionality for a different end user which we may want to focus on in the future. We discussed what we could provide for the busdrivers. I took note of all the ideas for future reference.
+The first interview with Qbuzz was very informative, but not for the prototype I made. I did not had the meeting with the actual dispatchers due to unavailability. I still managed to get information by steering the interview into a different direction. We discussed functionality for a different end user which we may want to focus on in the future. We discussed what we could provide for the bus drivers. I took note of all the ideas for future reference.
 
 The second interview with Breytner was really useful. During the initial designs I inquired with Breytner about what they wanted to see in the app. With this information in mind I made the first few designs.
 
@@ -148,7 +148,7 @@ I took all the feedback and topics discussed during the interviews in to account
 
 I then started to learn React Native. React Native is a framework that allows you to create a native app for Android and iOS with Javascript. This is a logical choice because ViriCiti works with Javascript and React for the web applications and so have I for the past year and a half.
 
-Because of this, the learing curve was not very steep. React Native is basically React without a stylesheet and HTML. I was pretty quick to pick React Native up. Within the week I made my first couple of screens to try stuff out.
+Because of this, the learning curve was not very steep. React Native is basically React without a style sheet and HTML. I was pretty quick to pick React Native up. Within the week I made my first couple of screens to try stuff out.
 
 #### Expo.io
 
@@ -162,7 +162,7 @@ With Expo.io setup and a good hi-fi prototype I could finally get started with b
 
 #### Navigation
 
-I decided to start with navigation. The app needs to be able to navigate to all the screens that it needs to. I decided on using an industry standerd called React Navigation. React Navigation offers me with all the functionality I needed. I build four stacks, a collection of screens in an order, for the app. The first stack was the dashboard stack. This stack was for all the screens of the monitoring part. The second stack was the search stack. This stack was for searching and viewing fleets and vehicles. The third stack was the notification stack for viewing notifications. The final stack was the settings stack with all the user settings.
+I decided to start with navigation. The app needs to be able to navigate to all the screens that it needs to. I decided on using an industry standard called React Navigation. React Navigation offers me with all the functionality I needed. I build four stacks, a collection of screens in an order, for the app. The first stack was the dashboard stack. This stack was for all the screens of the monitoring part. The second stack was the search stack. This stack was for searching and viewing fleets and vehicles. The third stack was the notification stack for viewing notifications. The final stack was the settings stack with all the user settings.
 
 After setting this up I was ready to build the first few screens with the components it needed.
 
@@ -202,7 +202,7 @@ At this point, I wrote a lot of code. I wanted to let my code be reviewed by Sak
 
 At this point of the project handling the state of the application became troublesome. I was writing to much of the same code in different places. I decided to look into React Redux. Redux is a framework that allows you to have a single global state to hook all of your screens up to.
 
-I have always wanted to learn React Redux and this was the perfect usecase for it. I managed to pick it up rather quickly with the help of a ViriCiti developer called Giuseppe Silleti. He explained some parts of Redux. After that I was able to use Redux throughout my app which made the app overal better.
+I have always wanted to learn React Redux and this was the perfect use case for it. I managed to pick it up rather quickly with the help of a ViriCiti developer called Giuseppe Silleti. He explained some parts of Redux. After that I was able to use Redux throughout my app which made the app overall better.
 
 ### Bulding the notification screens
 
@@ -212,7 +212,7 @@ After all this work I could start with the final part of the app. This was the n
 
 Once I had the screens and components I looked more into how to send the actual notification from a server to a specific user. I was able to use the functionality that Expo.io provided to do this. I used their SDK, software development kit, to do this.
 
-I started with adding the functionality to ViriCiti's notification center project. It was as easy as saying to also sent out a notification if the user had logged into the app once. I then wrote a small microservice, called Pusher, to send the actual notification through Expo.io to the devices. With the help of Sakif Surur this was pretty easy to do.
+I started with adding the functionality to ViriCiti's notification center project. It was as easy as saying to also sent out a notification if the user had logged into the app once. I then wrote a small micro-service, called Pusher, to send the actual notification through Expo.io to the devices. With the help of Sakif Surur this was pretty easy to do.
 
 At this point I had build an app that does exactly what ViriCiti wanted. The app provides the user with real-time and historical data and sends out notifications when an incident triggers. I could start alpha testing this app.
 
@@ -230,7 +230,7 @@ The two icons pretty much tied. It turned out that Android users liked the flat 
 
 I could now start working on releasing an alpha version to ViriCiti employees before releasing a beta app to selected customers. To do this I had to find out how to release to both platforms and what is needed. I setup accounts for ViriCiti at both Apple and Google. It was easier for Google to setup an alpha release so I started with that. This also made more sense because most of the ViriCiti development team uses Android and these were the people I wanted to test the app with first.
 
-After that I started the iOS alpha, called testflight, to let the iOS users test the app. This went simular to the Android version.
+After that I started the iOS alpha, called Testflight, to let the iOS users test the app. This went similar to the Android version.
 
 ### Testing with alpha group
 
@@ -250,7 +250,7 @@ My first learning goal was to learn how to make a native app. I took a few steps
 
 I was pretty quick at getting to learn React Native itself. I have had a year and a half of experience in React with building web applications. I just had to figure out what was different in React Native
 
-The main difference was styling and not having HTML. React Native uses CSS in a javascript way. It uses the same logic, but the syntax is different. You are not able to write CSS in a regular way like you would for a web application. Instead, you write it in an object oriented way in Javascript. This was easy to pick up.
+The main difference was styling and not having HTML. React Native uses CSS in a Javascript way. It uses the same logic, but the syntax is different. You are not able to write CSS in a regular way like you would for a web application. Instead, you write it in an object oriented way in Javascript. This was easy to pick up.
 
 Not having HTML was more challenging. I could not make use of regular HTML but had to use native elements instead. This limited me in a way because I like to write semantically correct HTML. I had to figure out what elements to use and what you can or cannot do in native development. Along the way I found this out and I am now much more aware of this.
 
@@ -264,7 +264,7 @@ I have learned a lot about native development and all the aspects of it. With th
 
 Normally I leave the user experience and visual design part to other people in a project. Because of this I am not as T-shaped as I want to. Because of this I decided to take it head on during the internship. I first turned the ideas ViriCiti had into sketches to then validate those ideas. I then made a visual design for the app. With those visual designs I then created a hi-fi prototype to use for user testing at customers of ViriCiti I worked on this learning goal in every step of the project iteration after iteration.
 
-I feel confident that my app is thouroughly tested and is based on information based on the end user. I have no problem defending the choices I made. A good example of this work is the information I got from my visit to Breytner. I found out what the user wanted to see and iterated over the design accordingly.
+I feel confident that my app is thoroughly tested and is based on information based on the end user. I have no problem defending the choices I made. A good example of this work is the information I got from my visit to Breytner. I found out what the user wanted to see and iterated over the design accordingly.
 
 ### Learning goal #3
 
@@ -288,44 +288,44 @@ Lastly, I made sure to write classes that will do things like make API calls or 
 
 #### How does ViriCiti ensures that everyone is up to date with the latest projects and techniques?
 
-ViriCiti does four things to achieve this. Every morning the development team holds a standup meeting. Day to day stuff gets told here and is discussed. For longer or bigger discussions ViriCiti holds a developer update each monday afternoon. This is basically a very lengthy standup where developers can go into more detail with each other. Once every few months ViriCiti holds a tech update. During this update developers get the chance to introduce the team to give a presentation to one another about new frameworks or techniques. Every month ViriCiti, Cohere and Livetech also hold a TN-update. During this update, all the companies under Transitions Now give updates on how things are going with the company. This is a great way to inform different departments on the matters of company growth, sales, marketing, development and more.
+ViriCiti does four things to achieve this. Every morning the development team holds a stand up meeting. Day to day stuff gets told here and is discussed. For longer or bigger discussions ViriCiti holds a developer update each Monday afternoon. This is basically a very lengthy stand up where developers can go into more detail with each other. Once every few months ViriCiti holds a tech update. During this update developers get the chance to introduce the team to give a presentation to one another about new frameworks or techniques. Every month ViriCiti, Cohere and Livetech also hold a TN-update. During this update, all the companies under Transitions Now give updates on how things are going with the company. This is a great way to inform different departments on the matters of company growth, sales, marketing, development and more.
 
 ### Observation assignment #2
 
 #### How does ViriCiti keep in contact with customers to get feedback on products?
 
-To my suprise the development team does not have a lot of contact with the end users face to face. Studying Communication and Multimedia design at the HvA taught me to continuously validate ideas and products with the end user. At ViriCiti products are often build by demand of customers. The customer service and the sales department then brings this up during meetings. Developers will then make this and role out a beta to selected customers. This will then be the first real point of feedback on the product. During my internship I tried to set the example by involving end users in the end product throughout the project and to make iterations based on that feedback.
+To my surprise the development team does not have a lot of contact with the end users face to face. Studying Communication and Multimedia design at the HvA taught me to continuously validate ideas and products with the end user. At ViriCiti products are often build by demand of customers. The customer service and the sales department then brings this up during meetings. Developers will then make this and role out a beta to selected customers. This will then be the first real point of feedback on the product. During my internship I tried to set the example by involving end users in the end product throughout the project and to make iterations based on that feedback.
 
 ### Observation assignment #3
 
 #### How do project leaders at ViriCiti ensure that the project is going well and is on track?
 
-ViriCiti project leaders keep track on progress during the daily standup. This provides them with general knowledge on how the project is going. During this standups project leaders often call a meeting if it is needed. This will happen if a developer is stuck at a point in the project for example. During this private meetings they discuss on what steps to take to resolve any issues. Because of the open office culture they also drop by now and again to see what you are doing and if there are any issues. If you have issues and you are in need of help ViriCiti expects you to be pro-active about it and reach out to you project leader or schedule a meeting about the issue.
+ViriCiti project leaders keep track on progress during the daily stand up. This provides them with general knowledge on how the project is going. During this stand ups project leaders often call a meeting if it is needed. This will happen if a developer is stuck at a point in the project for example. During this private meetings they discuss on what steps to take to resolve any issues. Because of the open office culture they also drop by now and again to see what you are doing and if there are any issues. If you have issues and you are in need of help ViriCiti expects you to be pro-active about it and reach out to you project leader or schedule a meeting about the issue.
 
 ## Analysis performance reviews
 
-### Mid project perfomance review
+### Mid project performance review
 
 The mid project performance reviews went well. It validate my approach and gave me the confidence to keep up the good work I had done so far. There were not any negative points.
 
-I got my first performance review from my internship supervisor Simon Rijk. In short, he was incredibly pleased with my performance so far. He was expecially pleased about my ownership of the project, initiative and enthousiasm and the iterative design process. He reviewed my competences as following:
+I got my first performance review from my internship supervisor Simon Rijk. In short, he was incredibly pleased with my performance so far. He was especially pleased about my ownership of the project, initiative and enthusiasm and the iterative design process. He reviewed my competences as following:
 
 [IMAGE13]
 
-I got my first performance review from my internship supervisor Simon Rijk. In short, he was incredibly pleased with my performance so far. He was expecially pleased about my ownership of the project, initiative and enthousiasm and the iterative design process. He reviewed my competences as following:
+I got my first performance review from my internship supervisor Simon Rijk. In short, he was incredibly pleased with my performance so far. He was especially pleased about my ownership of the project, initiative and enthusiasm and the iterative design process. He reviewed my competences as following:
 
 [IMAGE14]
 
-I review myself on my performance during the first part of the internship. My review was inline with the reviews by my internship supervisors. The only difference was the lower scores I gave myself in the competences. I reviewed my competences as following:
+I review myself on my performance during the first part of the internship. My review was in line with the reviews by my internship supervisors. The only difference was the lower scores I gave myself in the competences. I reviewed my competences as following:
 
 [IMAGE15]
 
-### End project perfomance review
+### End project performance review
 
 ## Conclusions
 
 So here we are. My internship is done. I am proud of the product I build. I was able to learn a complete new skill, native development, in a matter of a few months. This makes me a far better and useful front-end developer for companies. This was something I set out to do during this internship. I am also very pleased with the quality of the code I written and how I managed the project. I am confident that the product is of a high standard. The final thing I am very pleased with is the work I did on the user experience design and the visual design. I had an idea about the app, sketched it, designed it, build it and iterated over it. I was able to visit companies and get outside of the office to actually visit the users.
 
-I am incredibly proud of the product I build. Creating a full app with real-time data, historical data, notifications and more is not an easy project to take on as a first native app. I still managed to do an incredible amount of work in just a couple of months. This app will also be a great part of what ViriCiti offers to their customers. A lot of user will use the app I build and that is what gives me satifaction.
+I am incredibly proud of the product I build. Creating a full app with real-time data, historical data, notifications and more is not an easy project to take on as a first native app. I still managed to do an incredible amount of work in just a couple of months. This app will also be a great part of what ViriCiti offers to their customers. A lot of user will use the app I build and that is what gives me satisfaction.
 
-The internship validated the feeling I had that I am an industry ready developer who can realize ideas companies have in a solid product with the user in mind every step of the way. This is what I want to do as a developer, what companies want me to do and what a user needs somebody to do for them. My internship was a great succes and I cannot wait to start my graduation project at ViriCiti for a completly new design problem!
+The internship validated the feeling I had that I am an industry ready developer who can realize ideas companies have in a solid product with the user in mind every step of the way. This is what I want to do as a developer, what companies want me to do and what a user needs somebody to do for them. My internship was a great success and I cannot wait to start my graduation project at ViriCiti for a completely new design problem!
