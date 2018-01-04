@@ -238,6 +238,60 @@ During the testing with the alpha group I ran into a lot of small bugs. Things l
 
 ### Testing with beta group
 
+## The product
+
+The product consists of two major parts. The first part is the real-time dashboard. The second part is the notification functionality.
+
+### The real-time dashboard
+
+The real-time dashboard consists of two screens re-used to show live data on company level, fleet level and vehicle level.
+
+The first screen is the main dashboard used for getting detailed insights in the company, fleets and vehicles. The second screen is the real-time list used for navigating and getting quick insights in to fleets or vehicles.
+
+#### The main dashboard
+
+The main dashboard consists of four parts. The first part is the location and state of the vehicle. The second part is the live data blocks with the current value of the day. The third part is the live gauges on the vehicle level. The fourth part is the historical data in bar charts.
+
+##### The map
+
+The map shows the current position and state of the vehicles on company and fleet level. It shows the position and the current state in the form of a badge on the single vehicle level. You can use the map to see where the vehicles are driving and what their state is.
+
+##### The live data blocks
+
+In the live data blocks you can see the live values for the most important parameters. This gives you quick insight on each level.
+
+##### The live data gauges
+
+The live data gauges show you the most important information while the vehicle is driving. The vehicle level that shows this component. It shows you the current speed and state of charge of the vehicle.
+
+##### The historical data bar charts
+
+The historical data bar charts show the historical data for the most important parameters. You can see the data for the past hour, day, week and month. This is used to compare today's distance driven with yesterday's for instance.
+
+#### The real-time list
+
+The real-time list shows different components for fleets and vehicles. For fleets it shows just the live data values. For vehicles it shows the live data values and the sparkle charts.
+
+##### Live data values
+
+The live data values are simply shown as a number. The goal was to make the list for navigating way more informative as it would be normally. You can see the most important parameters, pieces of data, live for today. In the vehicle list you also see a badge with the current state of the vehicle like driving, idling or charging.
+
+##### Sparkle charts
+
+In the vehicle list you can see the sparkle charts based on the state of the vehicle. You see the sparkle chart when the vehicle is charging. You can see how full it is and how the chargin process is going. This is a feature that got added by interviewing Breytner in Rotterdam.
+
+### The notifications
+
+The notifications consist of two major parts. The list of received notifications and the detailed screen of a single notification.
+
+#### The notification list
+
+The notification list shows you all the received notifications and if you have read them. You can also see how many unread notifications you have in the badge in the tab navigator at the bottom.
+
+#### The detailed notification screen
+
+The detailed notification screen shows you all the information on the incident that triggered the notification. You can see where the incident occured, what values it triggered on and two call to actions. You can either open up your dialer from the app to call the person that needs to fix the problem. You can also view the vehicle it concerned to see what is going on.
+
 ## Learning goals
 
 ### Learning goal #1
