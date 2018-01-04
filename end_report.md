@@ -104,6 +104,8 @@ After I sketched the first few ideas I called another meeting with Freek Dieliss
 
 ### Setting up project and Asana
 
+During this phase I was mostly working in the role of a project manager.
+
 I setup a brand new project and a new project on Asana, a Trello like to-do list app that ViriCiti uses. This gave me a global planning and let my internship supervisors keep track on the state of the project. I also used this as a sort of log on what I did for future reference.
 
 ### The design
@@ -160,7 +162,7 @@ Expo.io also sets you up with native functionalities that you will likely need. 
 
 ### Building first screens
 
-During this phase I mostly worked in the role of a front-end developer. I still kept the user experience design in my mind to change things that won't work once you start actually building the product.
+During this phase I mostly worked in the role of a front-end developer. I still kept the user experience design in my mind to change things that will not work once you start actually building the product.
 
 With Expo.io setup and a good hi-fi prototype I could finally get started with building the app. I decided to build two parts of the app before even beginning to think about getting data in there. These two parts were navigation and components.
 
