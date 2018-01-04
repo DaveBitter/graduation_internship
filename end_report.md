@@ -362,7 +362,17 @@ All these things helped me to write wel structured , commented, neat and DRY cod
 
 #### How does ViriCiti ensures that everyone is up to date with the latest projects and techniques?
 
-ViriCiti does four things to achieve this. Every morning the development team holds a stand up meeting. Day to day stuff gets told here and is discussed. For longer or bigger discussions ViriCiti holds a developer update each Monday afternoon. This is basically a very lengthy stand up where developers can go into more detail with each other. Once every few months ViriCiti holds a tech update. During this update developers get the chance to introduce the team to give a presentation to one another about new frameworks or techniques. Every month ViriCiti, Cohere and Livetech also hold a TN-update. During this update, all the companies under Transitions Now give updates on how things are going with the company. This is a great way to inform different departments on the matters of company growth, sales, marketing, development and more. This observation assignment helped me with asking for help or informing colleagues at the right moment. I was able to start discussions or ask for help when it was perfect to do so.
+To find the answer to this question I decided to keep an eye out for anything that ViriCiti does achieve this.
+
+Every morning the development team holds a stand up meeting. Day to day stuff gets told here and is discussed. This gives everybody a general sense of all the projects and who is working at what. Because of this you also know who to ask for help since you know what everybody does.
+
+For longer or bigger discussions ViriCiti holds a developer update each Monday afternoon. This is basically a very lengthy stand up where developers can go into more detail with each other. I used this moment to let the other developers know at what point I was in the project and where I needed help with. A lot of meetings came out of these moments.
+
+Once every few months ViriCiti holds a tech update. During this update developers get the chance to introduce the team or give a presentation to one another about new frameworks or techniques. This ensures that ViriCiti is always up to date on what is being used by other companies. I have also given a tech update about Vue.JS during my internship. It is a great way to practice you presentation skills and to contribute to the knowledge ViriCiti has.
+
+Every month ViriCiti, Cohere and Livetech also hold a TN-update. During this update, all the companies under Transitions Now give updates on how things are going with the company. This is a great way to inform different departments on the matters of company growth, sales, marketing, development and more. My internship has come up a few times during these moments. I got to present to the company how my project was going.
+
+This observation assignment helped me with asking for help or informing colleagues at the right moment. I was able to start discussions or ask for help when it was perfect to do so. It also gave a sense of cohesion within the company. Everybody is here to make products that are as good as possible to help themselves and the company grown.
 
 ### Observation assignment #2
 
@@ -374,7 +384,11 @@ To my surprise the development team does not have a lot of contact with the end 
 
 #### How do project leaders at ViriCiti ensure that the project is going well and is on track?
 
-ViriCiti project leaders keep track on progress during the daily stand up. This provides them with general knowledge on how the project is going. During this stand ups project leaders often call a meeting if it is needed. This will happen if a developer is stuck at a point in the project for example. During this private meetings they discuss on what steps to take to resolve any issues. Because of the open office culture they also drop by now and again to see what you are doing and if there are any issues. If you have issues and you are in need of help ViriCiti expects you to be pro-active about it and reach out to you project leader or schedule a meeting about the issue. This observation assignment helped me with getting the right informations and meetings when it was needed. I like the pro-active approach and decided to call a couple of meetings myself with developer during the internship. It validated that the way I like to work is also the way that companies work.
+ViriCiti project leaders keep track on progress during the daily stand up. This provides them with general knowledge on how the project is going. During this stand ups project leaders often call a meeting if it is needed. This will happen if a developer is stuck at a point in the project for example. During this private meetings they discuss on what steps to take to resolve any issues. Because of the open office culture they also drop by now and again to see what you are doing and if there are any issues. If you have issues and you are in need of help ViriCiti expects you to be pro-active about it and reach out to you project leader or schedule a meeting about the issue.
+
+This observation assignment helped me with getting the right information and meetings when it was needed. I like the pro-active approach and decided to call a couple of meetings myself with developer during the internship. It validated that the way I like to work is also the way that companies work. My internship supervisor Simon Rijk also really appreciated this. He likes developers to do this.
+
+What is also observed is that the project leaders are not the only ones that keep track on the project. Other developers are genuinly interested in your project. Pim van der Heijden, a developer at ViriCiti, even offered help with the back-end without me even asking. He helped me refactor the native server. Because of this I returned the favor when he needed some help with front-end parts of the project he worked on. This is the way all developers should work together in my opinion. We can all learn a lot from each other.
 
 ## Analysis performance reviews
 
