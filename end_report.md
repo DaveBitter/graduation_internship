@@ -9,7 +9,9 @@ I wanted to do my internship at ViriCiti because of the worldwide scale on which
 
 I came across ViriCiti because I did my previous internship at Cohere, which, falls together with ViriCiti and Livetech under Transitions Now. I worked, while studying, for the past year and a half at ViriCiti. I really enjoy working here since the projects are perfect for Communication and Multimedia design students at the HvA.
 
-During the internship I got to learn a completely new skill. I got the chance to learn native development, in the form of an Android and an iOS app, during the internship. This is a skill I have always wanted to learn. At ViriCiti I got the chance to learn this and create an incredible real-time monitoring app!
+During the internship I got to learn a completely new skill. I got the chance to learn native development in the form of an Android and an iOS app. This is a skill I have always wanted to learn. At ViriCiti I got the chance to learn this and create an incredible real-time monitoring app!
+
+In this document I will take you through each aspect of the project and how the native app went from a mere idea to an actual live app.
 
 ## The company
 
@@ -26,19 +28,18 @@ around the world use this system.
 
 ### The office
 
-ViriCiti has around 20 employees. All departments work in the
-same space. This allows for an open office culture. There is a
+ViriCiti has around 20 employees. ViriCiti has a relatively young team with a few older employees. This makes a perfect balance. All departments work in the same space. This allows for an open office culture. There is a
 direct line between customer calls to feedback for developers.
-ViriCiti also provides space to learn. A few interns currently
-work here as well as a few former interns.
+ViriCiti also provides space to learn. A few students currently
+do their internship here. A few former interns work here now as the result of their internship. ViriCiti educates their interns in the hope of a future employee.
 
 ### The products
 
 ViriCiti's main product is the web application which let users view all of the live and historical data right in the browser. If an electric bus or truck can send out a paramater, a piece of data, ViriCiti will make sure you can view this live, perform analysis and generate reports on it.
 
-ViriCiti also provides incident notifications through email and sms. A user can receive a notification when for instance a bus or truck has a low battery. This will help users keep track of their fleets.
+ViriCiti also provides incident notifications through email and sms. A user can receive a notification when for instance a bus or truck has a low battery. This will help users keep track of their fleets and vehicles. They trust that ViriCiti will notify them when it's needed. ViriCiti then offers a full suit of applications that will help them with whatever task they have to do.
 
-ViriCiti has countless other, smaller, products to make sure this runs a smoothly as possible.
+ViriCiti has countless other, smaller, products to make sure this runs a smoothly as possible. You can think of apps like a CMS or an app that will make implementing a new vehicle easier.
 
 ### My position within the company.
 
@@ -414,8 +415,8 @@ I review myself on my performance during the first part of the internship. My re
 
 ## Conclusions
 
-So here we are. My internship is done. I am proud of the product I build. I was able to learn a complete new skill, native development, in a matter of a few months. This makes me a far better and useful front-end developer for companies. This was something I set out to do during this internship. I am also very pleased with the quality of the code I written and how I managed the project. I am confident that the product is of a high standard. The final thing I am very pleased with is the work I did on the user experience design and the visual design. I had an idea about the app, sketched it, designed it, build it and iterated over it. I was able to visit companies and get outside of the office to actually visit the users.
+So here we are. My internship is done. I am proud of the product I build. I was able to learn a complete new skill, native development, in a matter of a few months. This makes me a far better and useful front-end developer for companies. This was something I set out to do during this internship. I am also very pleased with the quality of the code I written and how I managed the project. I am confident that the product is of a high standard. The final thing I am very pleased with is the work I did on the user experience design and the visual design. I had an idea about the app, sketched it, designed it, build it and iterated over it. This is what CMD offers to companies. I can do more than one thing in a project. I could really take ownership in a project because of this. I was able to visit companies and get outside of the office to actually visit the users. I gained contacts withing ViriCiti's clientele.
 
-I am incredibly proud of the product I build. Creating a full app with real-time data, historical data, notifications and more is not an easy project to take on as a first native app. I still managed to do an incredible amount of work in just a couple of months. This app will also be a great part of what ViriCiti offers to their customers. A lot of user will use the app I build and that is what gives me satisfaction.
+I am incredibly proud of the product I build. Creating a full app with real-time data, historical data, notifications and more is not an easy project to take on as a first native app. I still managed to do an incredible amount of work in just a couple of months. This app will also be a great part of what ViriCiti offers to their customers. A lot of user will use the app I build and that is what gives me satisfaction. I was able to build this product from an idea in my head to an actual app that is now live in the Google Play store and the App store. This is what we do at CMD and what I want to keep on doing in our field of work.
 
 The internship validated the feeling I had that I am an industry ready developer who can realize ideas companies have in a solid product with the user in mind every step of the way. This is what I want to do as a developer, what companies want me to do and what a user needs somebody to do for them. My internship was a great success and I cannot wait to start my graduation project at ViriCiti for a completely new design problem!
