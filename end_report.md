@@ -108,6 +108,8 @@ I setup a brand new project and a new project on Asana, a Trello like to-do list
 
 ### The design
 
+During this phase I was mostly working in the role of an visual and user experience designer. I could offer ViriCiti these roles to come up with the product.
+
 #### First sketches
 
 [IMAGE1][image2]
@@ -158,6 +160,8 @@ Expo.io also sets you up with native functionalities that you will likely need. 
 
 ### Building first screens
 
+During this phase I mostly worked in the role of a front-end developer. I still kept the user experience design in my mind to change things that won't work once you start actually building the product.
+
 With Expo.io setup and a good hi-fi prototype I could finally get started with building the app. I decided to build two parts of the app before even beginning to think about getting data in there. These two parts were navigation and components.
 
 #### Navigation
@@ -187,6 +191,8 @@ For the live data charts I used a gauge package which I extended with some funct
 The final major component I build was the list component. I had to make this component myself. I made a component that will show the user different views while viewing fleets or vehicles. The list items all show real time data to the user. Building this component took some time, but was pretty easy to do.
 
 ### Building back-end for data
+
+During this phase I mostly worked in the role of a back-end developer.
 
 I now had all the components I needed ready. I just needed to hook real data up to the screens. To be able to do this my app had to connect to a server that would get me this data. So, I decided to write my own server that would do just that. Together with the help of Sakif Surur I build the first version of the server that would handle authentication, live data fetching and historical data fetching for the app.
 
@@ -227,6 +233,8 @@ Before alpha testing I had to make an icon and some artwork for the Google Play 
 The two icons pretty much tied. It turned out that Android users liked the flat design icon more and iOS users the gradient. This was expected since this is what they are used to. I knew that either icon was fine, but maybe I could use the flat design for the Android app and the gradient for the iOS app.
 
 ### Setting up release pipelines
+
+During this phase I was mostly working in the role of a project manager.
 
 I could now start working on releasing an alpha version to ViriCiti employees before releasing a beta app to selected customers. To do this I had to find out how to release to both platforms and what is needed. I setup accounts for ViriCiti at both Apple and Google. It was easier for Google to setup an alpha release so I started with that. This also made more sense because most of the ViriCiti development team uses Android and these were the people I wanted to test the app with first.
 
