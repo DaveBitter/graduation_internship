@@ -320,7 +320,7 @@ Not having HTML was more challenging. I could not make use of regular HTML but h
 
 Releasing to the Google Play store and the App store was really challenging. ViriCiti and I did not have any knowledge on this. I had to figure out what accounts I needed and what I needed to do to get the app on both platforms. I researched a lot online to achieve this. I also asked Maarten Petit, a native developer at Cohere, to help me with the things I really could not find out. In the end I managed to get a good pipeline ready for releases and had the knowledge on how to do this for the future.
 
-I have learned a lot about native development and all the aspects of it. With this knowledge and experience I am now confident enough to say that I can create native apps for companies. This felt like a great achievement because that is what I set out to do for this learning goal.
+I have learned a lot about native development and all the aspects of it. i learned how to build one, but also how to release one and what steps you need to take. With this knowledge and experience I am now confident enough to say that I can create native apps for companies. This felt like a great achievement because that is what I set out to do for this learning goal and I have always wanted to learn personally. I am sure that this will not be the last native app that I will create!
 
 ### Learning goal #2
 
@@ -354,7 +354,7 @@ Fifthly, I implemented React Redux which provides a global state in the app. Thi
 
 Lastly, I made sure to write classes that will do things like make API calls or save something to local storage. This will make sure that I do not have this code multiple times throughout my code
 
-All these things helped me to write wel structured , commented, neat and DRY code which I set out to do. I ensures a certain level of code that companies expect.
+All these things helped me to write wel structured , commented, neat and DRY code which I set out to do. I ensures a certain level of code that companies expect. This has been a problem for me in the past. I always knew that I needed to do it, but I never made it my priority. Looking back at this project and other projects I did makes something very clear. This is how I will do this from this moment on. I am no longer a student who gets away with messy projects. I am a front-end developer that will do this for each and every project I will work on in the future.
 
 ## Observation assignments
 
