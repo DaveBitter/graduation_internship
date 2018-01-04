@@ -72,19 +72,19 @@ Sakif is involved in every project and will use his skills and knowledge to real
 
 ## My job description
 
-During the internship I took on four major roles. I had a lot of freedom and responsibility during this project. I worked very autonomous.
+During the internship I took on four major roles. I had a lot of freedom and responsibility during this project. I therefor worked very autonomous during the internship. This is the way you can learn the most in my opinion.
 
 ### Front-end/Native developer
 
-I was in charge of building the actual app. For this I needed to use a popular Javascript front-end framework that is used to create native apps, React Native, to realize this. I was in charge of writing all the code to build the functionality and styles of the app.
+I was mainly in charge of building the actual app. For this I needed to use a popular Javascript front-end framework that is used to create native apps, React Native, to realize this. I was in charge of writing all the code to build the functionality and styles of the app. It was my responsibility to make sure that the code was of a great standard. This were I excell in at CMD so I wanted to show what I could do in this department as well as learn a lot of new things.
 
 ### User Experience/Visual designer
 
-I also was in charge of all the design work. I needed to sketch all the ideas to a low-fi prototype, design a hi-fi prototype and iterate over the user experience and visual design throughout the entire process of building the app.
+I also was in charge of all the design work. I needed to sketch all the ideas to a low-fi prototype, design a hi-fi prototype and iterate over the user experience and visual design throughout the entire process of building the app. This part was vital to ensure a great product. This was also one of my learning goals. I was determined to pick up this role as well as possible.
 
 ### Back-end developer
 
-I needed to build an server to hook my app up to and handle all the requests. To do this, I had to write an API to make requests to. This server would then make sure to get everything you requested. I also had to write some micro-services to provide functionality. More on this later.
+I needed to build an server to hook my app up to and handle all the requests. To do this, I had to write an API to make requests to. This server would then make sure to get everything you requested. I also had to write some micro-services to provide functionality. More on this later. ViriCiti has a lot of great back-end developers. Therefor, I could get a lot of help here.
 
 ### Project manager
 
