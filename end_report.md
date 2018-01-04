@@ -320,6 +320,8 @@ Normally I leave the user experience and visual design part to other people in a
 
 I feel confident that my app is thoroughly tested and is based on information based on the end user. I have no problem defending the choices I made. A good example of this work is the information I got from my visit to Breytner. I found out what the user wanted to see and iterated over the design accordingly.
 
+All this work learned me that I can do visual and user experience design is a professional matter. It validated to me that I can offer this to companies and I can either work very autonomous or work between different teams that work on a product.
+
 ### Learning goal #3
 
 #### As a front-end developer I want to write structured, commented, neat and DRY code so other developers can pick up projects I work on.
@@ -335,6 +337,8 @@ Fourthly, I wrote a full README for the project explaining what the project does
 Fifthly, I implemented React Redux which provides a global state in the app. This will make sure that I do not have the same pieces of state in different components. This will also make sure that the app is DRY.
 
 Lastly, I made sure to write classes that will do things like make API calls or save something to local storage. This will make sure that I do not have this code multiple times throughout my code
+
+All these things helped me to write wel structured , commented, neat and DRY code which I set out to do. I ensures a certain level of code that companies expect.
 
 ## Observation assignments
 
