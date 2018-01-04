@@ -410,6 +410,8 @@ I review myself on my performance during the first part of the internship. My re
 
 ### End project performance review
 
+### Analysis on the performance reviews.
+
 ## Conclusions
 
 So here we are. My internship is done. I am proud of the product I build. I was able to learn a complete new skill, native development, in a matter of a few months. This makes me a far better and useful front-end developer for companies. This was something I set out to do during this internship. I am also very pleased with the quality of the code I written and how I managed the project. I am confident that the product is of a high standard. The final thing I am very pleased with is the work I did on the user experience design and the visual design. I had an idea about the app, sketched it, designed it, build it and iterated over it. I was able to visit companies and get outside of the office to actually visit the users.
