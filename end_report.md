@@ -250,11 +250,11 @@ During the testing with the alpha group I ran into a lot of small bugs. Things l
 
 ## The product
 
-The product consists of two major parts. The first part is the real-time dashboard. The second part is the notification functionality.
+The product consists of two major parts. The first part is the real-time dashboard. This dashboard will show the user all the information that they need to see. Through different forms of visualisation, each with their own strongsuits, I wanted to use the best one. The second part is the notification functionality. This will play a major part in the app. This feature is vital for reaching the user with relevant information that they need to know to do their job.
 
 ### The real-time dashboard
 
-The real-time dashboard consists of two screens re-used to show live data on company level, fleet level and vehicle level.
+The real-time dashboard consists of two screens re-used to show live data on company level, fleet level and vehicle level. I did this to make the app as simple as possible. The user just has to learn what these two screens do and how they work. The only real difference is the level on which the user is looking. Each level has their own specific use. The screens therefor differ in some components, but will always use the same logic.
 
 The first screen is the main dashboard used for getting detailed insights in the company, fleets and vehicles. The second screen is the real-time list used for navigating and getting quick insights in to fleets or vehicles.
 
@@ -264,43 +264,43 @@ The main dashboard consists of four parts. The first part is the location and st
 
 ##### The map
 
-The map shows the current position and state of the vehicles on company and fleet level. It shows the position and the current state in the form of a badge on the single vehicle level. You can use the map to see where the vehicles are driving and what their state is.
+The map shows the current position and state of the vehicles on company and fleet level. It shows the position and the current state in the form of a badge on the single vehicle level. You can use the map to see where the vehicles are driving and what their state is. This is important to know to keep track of all your vehicle. The user will always be up to date on where they are.
 
 ##### The live data blocks
 
-In the live data blocks you can see the live values for the most important parameters. This gives you quick insight on each level.
+In the live data blocks you can see the live values for the most important parameters. This gives you quick insight on each level. These data blocks show the data for today. It shows you how performant your fleet or vehicle is and what it has done today. This allows the user to dive more into the data if he or she sees something that looks weird.
 
 ##### The live data gauges
 
-The live data gauges show you the most important information while the vehicle is driving. The vehicle level that shows this component. It shows you the current speed and state of charge of the vehicle.
+The live data gauges show you the most important information while the vehicle is driving. The vehicle level is the only level that shows this component. It shows you the current speed and state of charge of the vehicle. You can basically follow the vehicle while it is driving.
 
 ##### The historical data bar charts
 
-The historical data bar charts show the historical data for the most important parameters. You can see the data for the past hour, day, week and month. This is used to compare today's distance driven with yesterday's for instance.
+The historical data bar charts show the historical data for the most important parameters. You can see the data for the past hour, day, week and month. This is for instance used to compare today's distance driven with yesterday's. If the user sees a very low state of charge in the live data block he or she wants to find out how this is possible. In the bar chart for a full day he or she may see that the vehicle has driven very inefficient during the first few hours of the day. The user can then perform extensive analysis in ViriCiti's web application. This is exactly what I wanted to accomplish. The app should be a light weight and highly informative app that will trigger the user to use the web application to do more extenisve tasks like analysis. This keeps the native app small and simple.
 
 #### The real-time list
 
-The real-time list shows different components for fleets and vehicles. For fleets it shows just the live data values. For vehicles it shows the live data values and the sparkle charts.
+The real-time list shows different components for fleets and vehicles. For fleets it shows just the live data values. For vehicles it shows the live data values and the sparkle charts. The real-time list offers therefor more than just a way of navigating to a specific fleet or vehicle like the list in the search tab does. This list in itself is a form of data visualisation. You could easily look at the lists all day and get a lot of vital information. This also works as a trigger to dive into a specific fleet or vehicle that may drive very ineffecient for instance. THis is the quickest way to accomplish this in a single screen for multiple fleets or vehicles.
 
 ##### Live data values
 
-The live data values are simply shown as a number. The goal was to make the list for navigating way more informative as it would be normally. You can see the most important parameters, pieces of data, live for today. In the vehicle list you also see a badge with the current state of the vehicle like driving, idling or charging.
+The live data values are simply shown as a number. The goal was to make the list for navigating way more informative as it would be normally. You can see the most important parameters, pieces of data, live for today. In the vehicle list you also see a badge with the current state of the vehicle like driving, idling or charging. The goal was to inform the user about the current situation at a glance. Simplicity was key here.
 
 ##### Sparkle charts
 
-In the vehicle list you can see the sparkle charts based on the state of the vehicle. You see the sparkle chart when the vehicle is charging. You can see how full it is and how the chargin process is going. This is a feature that got added by interviewing Breytner in Rotterdam.
+In the vehicle list you can see the sparkle charts based on the state of the vehicle. You see the sparkle chart when the vehicle is charging. You can see how full it is and how the chargin process is going. This is a feature that got added by interviewing Breytner in Rotterdam. This component, which is basically a line that goes up and down, tells the user a lot. With a quick glance you can show the entire charging process in a incredibly small component. This is why stock trading apps do this for instance. If the user wants a more detailed chart about the charge process he or she can tap on the item and it will open the regular dashboard with that chart.
 
 ### The notifications
 
-The notifications consist of two major parts. The list of received notifications and the detailed screen of a single notification.
+The notifications consist of two major parts. The list of received notifications and the detailed screen of a single notification. Altough this sound like a really small part of the app it is in fact one of the biggest. Notifying users with vital information to then let them act on it is incredibly useful for them. The interface needed to be as clear as possible. The user needed to quickly see what was going on.
 
 #### The notification list
 
-The notification list shows you all the received notifications and if you have read them. You can also see how many unread notifications you have in the badge in the tab navigator at the bottom.
+The notification list shows you all the received notifications and if you have read them. You can also see how many unread notifications you have in the badge in the tab navigator at the bottom. This ensures that no notification gets overlooked. The badge only goes away if you have actually looked at the detailed view.
 
 #### The detailed notification screen
 
-The detailed notification screen shows you all the information on the incident that triggered the notification. You can see where the incident occured, what values it triggered on and two call to actions. You can either open up your dialer from the app to call the person that needs to fix the problem. You can also view the vehicle it concerned to see what is going on.
+The detailed notification screen shows you all the information on the incident that triggered the notification. You can see where the incident occured, what values it triggered on and two call to actions. You can either open up your dialer from the app to call the person that needs to fix the problem. You can also view the vehicle it concerned to see what is going on. After finding what might me the issue the user can call the person that needs to fix the problem or they might be triggered to use the web application.
 
 ## Learning goals
 
