@@ -1,5 +1,19 @@
 # Graduation Internship ViriCiti
 
+## Week 17
+
+### What did I do?
+
+This week was all about writing my report. I wrote the body of the report and started with creating styling for it. I also fixed some smaal bugs for the app.
+
+### For who/what did I do this?
+
+I did this to have a first draft as early as possible. This way I have the time to improve the report.
+
+### What went well/not so well?
+
+Everything went well.
+
 ## Week 16
 
 ### What did I do?
