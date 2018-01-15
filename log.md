@@ -1,5 +1,19 @@
 # Graduation Internship ViriCiti
 
+## Week 18
+
+### What did I do?
+
+This week I continued on fixing bugs and fixing one major point of the app. I fixed the notifications for the most part. It now works! You will receive incident notifications on your device when they trigger. This is a major part of the app and I now finally working.
+
+### For who/what did I do this?
+
+I did this to get the app ready for the beta release to customers. I wnat to achieve this at the end of the internship so I needed to fix all these things.
+
+### What went well/not so well?
+
+It went very well. I fixed the things I wanted/needed to.
+
 ## Week 17
 
 ### What did I do?
