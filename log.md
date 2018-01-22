@@ -1,10 +1,24 @@
 # Graduation Internship ViriCiti
 
+## Week 19
+
+### What did I do?
+
+This week I worked on the notifications for the most part. I needed to get the user's past received notifications to show in the app. For this I hooked my native server up to an other project by ViriCiti called Broker. I had to do some back-end work to do this. This was the final step for the app. We can now go to Beta with selected customers from ViriCiti on Android. iOS will follow next week.
+
+### For who/what did I do this?
+
+I did this to tie up loose ends. The internship is nearly done and I want to deliver this product to customers. I managed to keep on the right track during the past five months and this is the perfect way to end the intership/
+
+### What went well/not so well?
+
+Everything went very well.
+
 ## Week 18
 
 ### What did I do?
 
-This week I continued on fixing bugs and fixing one major point of the app. I fixed the notifications for the most part. It now works! You will receive incident notifications on your device when they trigger. This is a major part of the app and I now finally working.
+This week I continued on fixing bugs and fixing one major point of the app. I fixed the notifications for the most part. It now works! You will receive incident notifications on your device when they trigger. This is a major part of the app and I now finally working. I worked on my report for the rest of the time.
 
 ### For who/what did I do this?
 
@@ -18,7 +32,7 @@ It went very well. I fixed the things I wanted/needed to.
 
 ### What did I do?
 
-This week was all about writing my report. I wrote the body of the report and started with creating styling for it. I also fixed some smaal bugs for the app.
+This week was all about writing my report. I wrote the body of the report and started with creating styling for it. I also fixed some small bugs for the app.
 
 ### For who/what did I do this?
 
